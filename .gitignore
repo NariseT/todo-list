@@ -1,0 +1,6 @@
+config.js
+dist
+jspm_packages
+node_modules
+typings
+.DS_Store
